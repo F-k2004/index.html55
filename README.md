@@ -22,7 +22,7 @@ canvas{display:block}
 <body>
 
 <canvas id="c"></canvas>
-<iv class="hud" id="hud"></div>
+<div class="hud" id="hud"></div>
 
 <script>
 const c=document.getElementById("c");
